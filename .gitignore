@@ -1,0 +1,23 @@
+# Данные заявок
+leads.csv
+
+# Временные / системные
+*.log
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Редакторы
+.vscode/
+.idea/
+*.swp
+
+# Рабочие исходники (не нужны для сайта)
+/orig.jpg
+/uz.htm
+/Uzbekistan-Airways-Logo.jpg
+/Uzbekistan-Airways-Logo copy.png
+
+# Зависимости (если появятся)
+node_modules/
+vendor/
