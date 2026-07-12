@@ -108,7 +108,7 @@ window.I18N = {
     "faq.q3": "Сколько стоит?",
     "faq.a3": "От 8,8 млн сум на человека за 7 ночей. Точная цена зависит от отеля — оставьте заявку, рассчитаем бесплатно.",
     "faq.q4": "Как забронировать?",
-    "faq.a4": "Заявка на сайте, звонок (71) 201 11 11 или офис Asialuxe Travel.",
+    "faq.a4": "Заявка на сайте, звонок 1111 или офис Asialuxe Travel.",
     "faq.q5": "Подходит для семей с детьми?",
     "faq.a5": "Да. Прямой рейс без пересадок — спокойнее для всей семьи.",
 
@@ -258,7 +258,7 @@ window.I18N = {
     "faq.q3": "Qancha turadi?",
     "faq.a3": "7 kecha — kishi boshiga 8,8 mln soʻmdan. Aniq narx mehmonxonaga bogʻliq — ariza qoldiring, bepul hisoblab beramiz.",
     "faq.q4": "Qanday band qilish?",
-    "faq.a4": "Saytda ariza, (71) 201 11 11 qoʻngʻiroq yoki Asialuxe Travel ofisi.",
+    "faq.a4": "Saytda ariza, 1111 qoʻngʻiroq yoki Asialuxe Travel ofisi.",
     "faq.q5": "Bolali oilalar uchun mosmi?",
     "faq.a5": "Ha. Tranzitsiz toʻgʻri reys — butun oila uchun qulayroq.",
 

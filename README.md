@@ -24,7 +24,7 @@ tashkent-antalya-landing/
 
 ## Офис
 - **Адрес:** г. Ташкент, проспект Амира Темура, 24
-- **Телефон:** +998 (71) 201 11 11
+- **Телефон:** 1111
 - **Карта:** [Yandex Maps](https://yandex.uz/maps/10335/tashkent/?from=mapframe&ll=69.283593,41.298579&mode=routes&rtext=~41.298579,69.283593&rtt=auto&ruri=~ymapsbm1://org?oid=79190462171&z=14)
 
 ## Запуск
