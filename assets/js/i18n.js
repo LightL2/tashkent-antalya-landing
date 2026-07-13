@@ -20,7 +20,7 @@ window.I18N = {
     "hero.lead": "Прямые рейсы из Ташкента каждый четверг — к морю без пересадок.",
     "hero.ctaTour": "Забронировать тур",
     "hero.ctaInfo": "Что входит",
-    "hero.stat1n": "от 8,8 млн",
+    "hero.stat1n": "от 11 млн",
     "hero.stat1l": "сум на человека",
     "hero.stat2n": "7 ночей",
     "hero.stat2l": "у моря",
@@ -29,7 +29,7 @@ window.I18N = {
 
     "price.tag": "Всё включено",
     "price.from": "от",
-    "price.num": "8,8 млн",
+    "price.num": "11 млн",
     "price.cur": "сум на человека",
     "price.note": "7 ночей · при двухместном размещении",
     "price.i1": "Прямой перелёт Uzbekistan Airways",
@@ -106,7 +106,7 @@ window.I18N = {
     "faq.q2": "Что входит в тур?",
     "faq.a2": "Перелёт, 7 ночей в отеле, питание, трансфер и страховка. Цена — на человека при двухместном размещении.",
     "faq.q3": "Сколько стоит?",
-    "faq.a3": "От 8,8 млн сум на человека за 7 ночей. Точная цена зависит от отеля — оставьте заявку, рассчитаем бесплатно.",
+    "faq.a3": "От 11 млн сум на человека за 7 ночей. Точная цена зависит от отеля — оставьте заявку, рассчитаем бесплатно.",
     "faq.q4": "Как забронировать?",
     "faq.a4": "Заявка на сайте, звонок 1111 или офис Asialuxe Travel.",
     "faq.q5": "Подходит для семей с детьми?",
@@ -126,7 +126,7 @@ window.I18N = {
 
     "lang.main": "Выбранный",
 
-    "mob.price": "от 8,8 млн сум на человека · 7 ночей",
+    "mob.price": "от 11 млн сум на человека · 7 ночей",
     "mob.cta": "Забронировать тур",
 
     "footer.about": "Asialuxe Travel — прямые рейсы Ташкент — Анталья.",
@@ -170,7 +170,7 @@ window.I18N = {
     "hero.lead": "Har payshanba Toshkentdan toʻgʻridan-toʻgʻri reys — transitsiz dengizga.",
     "hero.ctaTour": "Turni band qilish",
     "hero.ctaInfo": "Nimalar kiradi",
-    "hero.stat1n": "8,8 mln dan",
+    "hero.stat1n": "11 mln dan",
     "hero.stat1l": "soʻm kishi boshiga",
     "hero.stat2n": "7 kecha",
     "hero.stat2l": "dengiz boʻyida",
@@ -179,7 +179,7 @@ window.I18N = {
 
     "price.tag": "Hammasi ichida",
     "price.from": "dan",
-    "price.num": "8,8 mln",
+    "price.num": "11 mln",
     "price.cur": "soʻm kishi boshiga",
     "price.note": "7 kecha · ikki kishilik xonada",
     "price.i1": "Uzbekistan Airways toʻgʻridan-toʻgʻri reysi",
@@ -256,7 +256,7 @@ window.I18N = {
     "faq.q2": "Turga nimalar kiradi?",
     "faq.a2": "Parvoz, 7 kecha mehmonxona, ovqatlanish, transfer va sugʻurta. Narx kishi boshiga — ikki kishilik xonada.",
     "faq.q3": "Qancha turadi?",
-    "faq.a3": "7 kecha — kishi boshiga 8,8 mln soʻmdan. Aniq narx mehmonxonaga bogʻliq — ariza qoldiring, bepul hisoblab beramiz.",
+    "faq.a3": "7 kecha — kishi boshiga 11 mln soʻmdan. Aniq narx mehmonxonaga bogʻliq — ariza qoldiring, bepul hisoblab beramiz.",
     "faq.q4": "Qanday band qilish?",
     "faq.a4": "Saytda ariza, 1111 qoʻngʻiroq yoki Asialuxe Travel ofisi.",
     "faq.q5": "Bolali oilalar uchun mosmi?",
@@ -276,7 +276,7 @@ window.I18N = {
 
     "lang.main": "Tanlangan",
 
-    "mob.price": "8,8 mln soʻmdan · kishi boshiga · 7 kecha",
+    "mob.price": "11 mln soʻmdan · kishi boshiga · 7 kecha",
     "mob.cta": "Turni band qilish",
 
     "footer.about": "Asialuxe Travel — Toshkent — Antalya toʻgʻridan-toʻgʻri reyslari.",
